@@ -3,7 +3,67 @@
 ## Launch objective
 Start with dropshipping / low-risk sourcing where possible. Do not buy bulk inventory until real demand is proven. Use OEM/ODM manufacturers for the branded TP line once order volume justifies MOQ.
 
-## Supplier shortlist
+## Phase 1 — verified EPROLO launch candidates
+These are current public EPROLO product pages that match the initial TP assortment. Final retail activation still requires checking the exact variant, destination shipping price, actual delivery route, stock and dedicated PayPal checkout.
+
+### Hero product — TP VoidLock™
+- EPROLO listing: Travel essentials: vacuum bags, luggage, clothes boxes, packing bags, accessories, compression cubes
+- Listed vacuum-bag size: 44 × 28 × 14 cm, about 17L
+- Recommended configuration shown by supplier: 2 bags + 1 pump
+- Link: https://eprolo.com/app/product/travel-essentials-vacuum-bags-luggage-clothes-boxes-packing-bags-accessories-compression-cubes
+- Current TP retail: $64.90
+
+### TP Mini / Standard Compression Cube
+- EPROLO listing: Travel compression packing cubes — ultralight, expandable
+- Material shown: nylon
+- Sizes shown: S 30×10×20 cm, M 35×10×25 cm, L 40×10×35 cm
+- Colors shown include black, navy blue, beige, gray, blue and red
+- Link: https://eprolo.com/app/product/travel-compression-packing-cubes-ultralight-expandable-for-luggage-organization
+- Target retail: $24.90–$29.90 depending on exact variant and shipping
+
+### TP Tech Organizer
+- EPROLO listing: Portable Electronic Accessories Travel Case
+- Material shown: nylon
+- Approx. size: 22.6 × 15.7 cm
+- Colors shown: black, blue, green
+- Link: https://eprolo.com/app/product/portable-electronic-accessories-travel-case
+- Target retail: $19.90 pending landed-cost check
+
+### TP Toiletry Bag
+- EPROLO listing: Men's Toiletry Bag Travel Organizer Cosmetic Bag
+- Size shown: 26.5 × 15 × 16 cm
+- Material shown: PU leather
+- Carrying part explicitly listed by supplier: soft handle
+- Colors shown: brown, black
+- Link: https://eprolo.com/app/product/Men%27s-Toiletry-Bag-Travel-Organizer-Cosmetic-Bag
+- Target retail: $22.90 pending landed-cost check
+
+### TP Shoe / Laundry solution
+- EPROLO listing: Travel Compressible Storage Bag Storage Bag Set with Shoe Bag
+- Material shown: nylon
+- Supplier description includes travel storage for shoes and dirty clothes
+- Link: https://eprolo.com/app/product/Travel-Compressible-Storage-Bag-Storage-Bag-Set-with-Shoe-Bag-Mesh-Visual-Luggage-Storage-Organizing-Storage-Bag
+- Use as sourcing reference for TP Shoe Bag and TP Laundry Pouch; confirm whether individual pieces can be ordered separately before activation.
+- Target retail concepts: Shoe Bag $14.90; Laundry Pouch $16.90
+
+### Alternative 7-piece organizer set
+- EPROLO listing: 7Pcs Travel Packing Cubes, Luggage Organizer Set with Shoe Bag
+- Includes multiple packing organizers and shoe storage
+- Link: https://eprolo.com/app/product/7pcs-travel-packing-cubes-luggage-organizer-set-with-shoe-bag-for-clothes-storage
+- Candidate for future Carry-On Set / bundle after landed-cost check.
+
+### Future travel bag with obvious carrying solution
+- EPROLO listing: Travel Bag (Black) Model1639
+- Supplier describes a sturdy portable belt/handle, luggage tag and shoulder strap
+- Link: https://eprolo.com/app/product/travel-bag-black-model1639
+- Candidate for a future TP Travel Duffle / branded custom-print test.
+
+## EPROLO operating notes
+- Several candidate pages publicly state support for 7-day unconditional returns and shipment within 24 hours, but TP must not promise these timings unless the exact selected variant and destination route are verified at order time.
+- EPROLO pages note that EU orders may incur additional tax; final checkout/customer copy must reflect the actual route and tax treatment.
+- Public pages do not expose all landed costs reliably. Always use EPROLO's destination shipping calculator inside the account before converting a Coming Soon SKU to Buy Now.
+
+## Phase 2 supplier shortlist for custom TP production
 
 ### 1) Xiamen Daysun Industrial Co., Ltd. — recommended OEM development candidate
 - Compression packing cubes / travel bags
