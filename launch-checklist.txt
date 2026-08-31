@@ -1,0 +1,6 @@
+TP Carryvoid launch QA
+- PayPal color variants enabled for Carry-On, Travel Duffle and Travel Backpack.
+- Travel Line prices: Carry-On $149, Duffle $89, Backpack $99.
+- Verify PayPal variant selector renders on product pages before public launch.
+- Verify mobile PayPal flow on iPhone and Android.
+- Verify order confirmation includes chosen Color.
