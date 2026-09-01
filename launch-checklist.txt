@@ -32,6 +32,11 @@ PASS — Trust / legal / navigation
 - Sitemap includes homepage, policies and all 10 product URLs.
 - robots.txt present.
 
+PASS — Deployment
+- Latest GitHub Pages build for main completed successfully on September 1, 2026.
+- Published deployment head SHA verified against the latest QA commit.
+- Image/vector fixes are therefore included in the Pages deployment pipeline rather than remaining only in repository source.
+
 MANUAL LIVE SMOKE TEST REQUIRED BEFORE PAID TRAFFIC
 - On iPhone Safari: open each of Carry-On, Duffle and Backpack; verify PayPal hosted selector visibly offers the intended colors.
 - Confirm the final PayPal order summary records the selected Color.
