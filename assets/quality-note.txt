@@ -1,1 +1,0 @@
-Product image quality upgrade: replacing low-resolution embedded SVG previews with sharper JPEG images and correcting the failed image reference.

@@ -1,1 +1,0 @@
-Corrected TP product imagery is being uploaded and wired into the storefront.

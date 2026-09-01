@@ -1,1 +1,0 @@
-Replacing low-resolution embedded SVG previews with sharper JPEG product images and fixing the missing image reference.
